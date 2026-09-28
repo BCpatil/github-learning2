@@ -1,0 +1,1 @@
+print("hello git and git hub iam learning how to init and add and commit and push to git hub using a tool gir")
